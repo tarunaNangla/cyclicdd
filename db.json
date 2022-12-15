@@ -1,14 +1,37 @@
 {
-    "todos": [
-      {
-        "id": 1671039684778,
-        "title": "tt",
-        "status": false
-      },
-      {
-        "id": 1671073679254,
-        "title": "rinki",
-        "status": false
-      }
-    ]
-  }
+  "todos": [
+    {
+      "name": "Taruna",
+      "age": "33",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Student",
+      "id": 1671039684779
+    },
+    {
+      "name": "Taruna",
+      "age": "33",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Student",
+      "id": 1671039684779
+    },
+    {
+      "name": "Taruna",
+      "age": "33",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Student",
+      "id": 1671039684779
+    },
+    {
+      "name": "Taruna",
+      "age": "33",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Student",
+      "id": 1671039684779
+    },
+    []
+  ]
+}
